@@ -1,0 +1,36 @@
+{
+  "dataMainPagePart1": {
+    "images": [
+      {
+        "url": "images/slide/image00.jpg"
+      },
+      {
+        "url": "images/slide/image01.jpg"
+      }
+    ]
+  },
+  "dataMainPagePart2": {
+    "English": {},
+    "VietNamese": {
+      "Tại sao chọn chúng tôi?": {
+        "Chính": {
+          "content": "Culturesconnect giúp khách du lịch tiếp cận và trải nghiệm được nền văn hóa với đúng những giá trị của nó và giúp người dân địa phương thân thiên giới thiệu được nền văn hóa giàu bản sắc của mình, đồng thời có thêm một nguồn thu nhập chính đáng.",
+          "Tìm hiểu văn hóa": "Tìm hiểu về văn hóa ẩm thực Việt Nam và dùng cơm cùng người địa phương",
+          "Trải nghiệm": "Trải nghiệm các hoạt động nông nghiệp với người nông dân địa phương",
+          "Sản phẩm thủ công": "Làm sản phẩm thủ công mỹ nghệ cùng người địa phương",
+          "Lễ hội": "Trải nghiệm các lễ hội và phong tục văn hóa cùng người địa phương",
+          "Tham quan": "Thăm quan các điểm đến không theo lối mòn và chỉ người địa phương biết rõ nhất"
+        }
+      }
+    }
+
+  },
+  "dataMainPagePart3": {
+
+
+  },
+  "dataMainPagePart4": {
+
+
+  }
+}
